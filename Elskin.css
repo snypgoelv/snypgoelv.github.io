@@ -1,0 +1,36 @@
+h1 {color: rosybrown;
+     text-align: center;
+     background-color: rebeccapurple;
+     border: 2px solid black;}
+
+div {background-image: url("Background.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}     
+
+section { background-color: black;
+     }
+ address {color: rebeccapurple;}
+
+p {padding: 1%; width: 10%;
+   
+   border: 1px inset rebeccapurple;
+   border-radius: 8px;
+}
+p.serum{
+     text-align: center;
+     margin: 1% 20% 1% 75%;
+     text-shadow: 1px 1px;
+} 
+p.exfoliant{
+     text-align: center;
+     text-shadow: 1px 1px;
+}
+p.cleanser{
+     text-align: center;
+     text-shadow: 1px 1px;
+}
+section.top {
+     font-family: brushscript;
+}
